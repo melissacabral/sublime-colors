@@ -30,10 +30,12 @@ I Highly recommend all these 3rd party plugins!
   * # search within file
   * : line number
 * Ctrl + G => go to line number
-###Making selections quickly
+
+### Making selections quickly
 * Ctrl + D => Select next
 * Alt + F3 => Select same (all)  (faster than Find + replace)
 * Ctrl + Shift + L => Expand to Lines
-###HTML
+
+### HTML
 * alt + shift + W => Wrap with Tag
 
