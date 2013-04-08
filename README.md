@@ -5,6 +5,9 @@ The color scheme I use when demonstrating code: melissa WeaveDreamer
 * Optimized for PHP, HTML, CSS
 * Hilighted PHP blocks  (the default colorschemes do not all do this)
 
+##How to install
+* Download, Extract, and place the color scheme files in  your **Sublime Text 2\Packages\User\Color Schemes**  folder
+
 #Tips for NEW Sublime Text 2 Users
 
 ##Tutorials
