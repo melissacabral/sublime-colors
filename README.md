@@ -8,6 +8,7 @@ The color scheme I use when demonstrating code: melissa WeaveDreamer
 #Tips for NEW Sublime Text 2 Users
 
 ##Must-Have Packages
+I Highly recommend all these 3rd party plugins!
 * Package Control http://wbond.net/sublime_packages/package_control 
 * Hex to RGBA https://github.com/aroscoe/Hex-to-RGBA  (  ctrl + shift + R )
 * WordPress snippets and autocomplete https://github.com/purplefish32/sublime-text-2-wordpress 
