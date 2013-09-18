@@ -192,6 +192,21 @@
 			</dict>
 			<dict>
 				<key>name</key>
+				<string>Embedded CSS</string>
+				<key>scope</key>
+				<string>source.css.embedded.html</string>
+				<key>settings</key>
+				<dict>
+					<key>background</key>
+					<string>#f9f9f9</string>
+					<key>fontStyle</key>
+					<string></string>
+					<key>foreground</key>
+					<string>#000</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
 				<string>String constant</string>
 				<key>scope</key>
 				<string>string constant</string>
@@ -438,6 +453,19 @@
 			<dict>
 				<key>name</key>
 				<string>PHP Tags</string>
+				<key>scope</key>
+				<string>punctuation.section.embedded.begin.php, punctuation.section.embedded.end.php</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#f80000</string>
+					<key>fontStyle</key>
+					<string>bold</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>PHP Tags Embedded in CSS</string>
 				<key>scope</key>
 				<string>punctuation.section.embedded.begin.php, punctuation.section.embedded.end.php</string>
 				<key>settings</key>
