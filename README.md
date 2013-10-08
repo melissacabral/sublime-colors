@@ -1,4 +1,4 @@
-#Melissa's Color Schemes
+#Melissa's Sublime Color Scheme & Tips
 The color scheme I use when demonstrating code: melissa WeaveDreamer
 
 ##Color Scheme Features
@@ -16,13 +16,15 @@ The color scheme I use when demonstrating code: melissa WeaveDreamer
 
 ##Must-Have Packages
 I Highly recommend all these 3rd party plugins!
-* Package Control http://wbond.net/sublime_packages/package_control 
+* Package Control http://wbond.net/sublime_packages/package_control (install this first)
+* Color Picker http://weslly.github.io/ColorPicker/
 * Hex to RGBA https://github.com/aroscoe/Hex-to-RGBA  (  ctrl + shift + R )
 * WordPress snippets and autocomplete https://github.com/purplefish32/sublime-text-2-wordpress 
 * Sidebar Enhancements (adds preview in browser, delete, etc) https://github.com/titoBouzout/SideBarEnhancements
 
 ##Cool Built-in features
 * Reindent Lines (ctrl + shift + p ‘indent’)
+* Automatic comments with Ctrl + /
 * Projects (Use them! save projects to your name folder)
 
 ##Key Commands
